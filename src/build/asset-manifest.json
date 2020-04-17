@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5291dc58.chunk.css",
+    "main.js": "/static/js/main.c0aebd9b.chunk.js",
+    "main.js.map": "/static/js/main.c0aebd9b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a56884a5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a56884a5.js.map",
+    "static/css/2.89f067aa.chunk.css": "/static/css/2.89f067aa.chunk.css",
+    "static/js/2.dab70367.chunk.js": "/static/js/2.dab70367.chunk.js",
+    "static/js/2.dab70367.chunk.js.map": "/static/js/2.dab70367.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.10ad7774f26cbf1aef290dc9c0f7d337.js": "/precache-manifest.10ad7774f26cbf1aef290dc9c0f7d337.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.5291dc58.chunk.css.map": "/static/css/main.5291dc58.chunk.css.map",
+    "static/js/2.dab70367.chunk.js.LICENSE.txt": "/static/js/2.dab70367.chunk.js.LICENSE.txt",
+    "static/media/crave-and-eat-header.png": "/static/media/crave-and-eat-header.e64da336.png",
+    "static/media/crave-and-eat-mainidea.png": "/static/media/crave-and-eat-mainidea.86ce674c.png",
+    "static/media/diversity-header.png": "/static/media/diversity-header.466e8ecc.png",
+    "static/media/diversity-process.png": "/static/media/diversity-process.453c483b.png",
+    "static/media/happypaws-sketches.png": "/static/media/happypaws-sketches.e45e067a.png",
+    "static/media/header-happypaws.png": "/static/media/header-happypaws.0350b9f4.png",
+    "static/media/hero.png": "/static/media/hero.f016cfba.png",
+    "static/media/logo.png": "/static/media/logo.df638e92.png",
+    "static/media/styletile_crave-and-eat.png": "/static/media/styletile_crave-and-eat.5e64e10e.png",
+    "static/media/styletile_diversityhousing.png": "/static/media/styletile_diversityhousing.034e76d0.png",
+    "static/media/styletile_happypaws.png": "/static/media/styletile_happypaws.fd876b70.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a56884a5.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.dab70367.chunk.js",
+    "static/css/main.5291dc58.chunk.css",
+    "static/js/main.c0aebd9b.chunk.js"
+  ]
+}
